@@ -1,3 +1,3 @@
-![Header](https://raw.githubusercontent.com/seungguini/seungguini/seungguini/minimalist_profile.png "Header")
+![Header](https://raw.githubusercontent.com/seungguini/seungguini/main/minimalist_profile_scaled.png "Header")
 
 ### Hello there 👋
