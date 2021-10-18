@@ -3,6 +3,7 @@
 ### Hello! I'm Seunggun. 👋
 - 🔬 NLP research assistant for [Professor Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
 - 📊 Ex-data science intern at [FundBloc](http://fundbloc.io/)
+- 🎨 On-gong passion project - [Potluck](https://github.com/software-students-fall2021/project-setup-potluck)
 - 🗺️ Places I've lived: Seoul 🇰🇷 / New York & Chicago 🇺🇸 / Accra 🇬🇭 / Hague 🇳🇱
 - 🗣️ Languages I can speak: Korean / English
 - ❤️ Interests : Web Development, Data Analysis, NLP, Data Visualization
