@@ -2,6 +2,7 @@
 
 ### Hello! I'm Seunggun. 👋
 - 👨‍💻 Core skills : **Python**, **[Node.js](https://nodejs.org/)**/**[Express.js](https://expressjs.com/)**, **[React.js](https://reactjs.org/)**, **HTML**/**CSS**, **MySQL**, 
+- 💻 Incoming Summer 2022 Software Developer Intern @ [PayPal](https://www.paypal.com/)
 - 🔬 NLP research assistant for [Professor Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
 - 🎨 On-gong passion project - [Potluck](https://github.com/software-students-fall2021/project-setup-potluck)
 - 📊 Summer 2021 Software Developer intern at [FundBloc](http://fundbloc.io/)
