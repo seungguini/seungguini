@@ -9,5 +9,5 @@
 - 🗺️ Places I've lived: Seoul 🇰🇷 / New York & Chicago 🇺🇸 / Accra 🇬🇭 / Hague 🇳🇱
 - 🗣️ Languages I can speak: Korean / English
 - ❤️ Interests : Web Development, Backend development, Data Analysis, NLP, Data Visualization
-> I'm an undergraduate at New York University majoring in Computer Science and Economics. Originally from Republic of Korea, I've grown up as a life-long bilingual and love exploring the intricacies of language through Natural Language Processing (NLP). Currently, I'm working on ways to share my discoveries and insights through the web!
+> I'm an undergraduate at New York University majoring in Computer Science and Economics. I'm from Seoul, South Korea, and I've grown up as a life-long bilingual. I love exploring the intricacies of language through Natural Language Processing (NLP). Currently, I'm working on ways to share my discoveries and insights through the web!
 
