@@ -4,7 +4,7 @@
 - 👨‍💻 Core skills : **Java**, **Python**, **[Node.js](https://nodejs.org/)**/**[Express.js](https://expressjs.com/)**, **[React.js](https://reactjs.org/)**, **HTML**/**CSS**, **MySQL**, 
 - 💻 Software Developer Intern @ [PayPal](https://www.paypal.com/) Summer 2022
 - 🔬 NLP research assistant for [Professor Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
-- 🎨 On-gong passion project - [Astrocat Website](https://github.com/https://github.com/seungguini/astrocat-website)
+- 🎨 On-gong passion project - [Vintage Turntable](https://github.com/https://github.com/seungguini/vintage-turntable)
 - 📊 Summer 2021 Software Developer intern at [FundBloc](http://fundbloc.io/)
 - 🗺️ Places I've lived: Seoul 🇰🇷 / New York & Chicago 🇺🇸 / Accra 🇬🇭 / Hague 🇳🇱
 - 🗣️ Languages I can speak: Korean / English
